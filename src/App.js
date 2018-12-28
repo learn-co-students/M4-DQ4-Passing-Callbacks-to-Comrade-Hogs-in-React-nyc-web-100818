@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
-import './App.css';
-import PigPen from './components/PigPen.js';
-
+import React, { Component } from "react";
+import "./App.css";
+import PigPen from "./components/PigPen.js";
 
 class App extends Component {
   render() {
